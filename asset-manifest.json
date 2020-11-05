@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pomodoro-clock-latest/static/css/main.a74e43ed.chunk.css",
-    "main.js": "/pomodoro-clock-latest/static/js/main.10fdc6e2.chunk.js",
-    "main.js.map": "/pomodoro-clock-latest/static/js/main.10fdc6e2.chunk.js.map",
+    "main.js": "/pomodoro-clock-latest/static/js/main.d10432d3.chunk.js",
+    "main.js.map": "/pomodoro-clock-latest/static/js/main.d10432d3.chunk.js.map",
     "runtime-main.js": "/pomodoro-clock-latest/static/js/runtime-main.ecadc8ca.js",
     "runtime-main.js.map": "/pomodoro-clock-latest/static/js/runtime-main.ecadc8ca.js.map",
     "static/js/2.d3715703.chunk.js": "/pomodoro-clock-latest/static/js/2.d3715703.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ecadc8ca.js",
     "static/js/2.d3715703.chunk.js",
     "static/css/main.a74e43ed.chunk.css",
-    "static/js/main.10fdc6e2.chunk.js"
+    "static/js/main.d10432d3.chunk.js"
   ]
 }
